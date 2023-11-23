@@ -1,4 +1,5 @@
 #%%
+
 class Chair:
     def __init__(self, color, number_of_legs):
         if int != type(number_of_legs):
